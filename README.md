@@ -200,4 +200,4 @@ This repository serves as the official landing page for EXIT The Game. The softw
 **Get the most recent version of EXIT The Game today!**
 
 ---
-**Last updated:** 2026-11-13 10:30:40 UTC
+**Last updated:** 2026-11-13 18:22:17 UTC
